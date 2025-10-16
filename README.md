@@ -78,4 +78,12 @@ This project is entirely implemented using **Python and Pandas**, without any vi
 ## 🛠 How to Run
 1. Clone this repository:
    ```bash
-   git clone <https://github.com/Vaibhav-Pacherwal/Titanic-Data-Analysis>
+   git clone https://github.com/Vaibhav-Pacherwal/Titanic-Data-Analysis
+
+2. Navigate to the project folder:
+    ```bash
+    cd titanic-data-analysis
+
+3. Run the Python script:
+    ```bash
+    python3 analysis.py
